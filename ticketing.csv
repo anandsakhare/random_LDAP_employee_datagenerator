@@ -1,0 +1,251 @@
+,ticket_num,assigned_to_emp_id,category,status,creation_date,requestor,FiledAgainst,TicketType,Severity,Priority
+0,TICKET-0,144,CTO,Pending,2020-02-11,27,Systems,Issue,1 - Minor,2 - Medium
+1,TICKET-1,2,Finance,In Progress,2020-02-25,220,Hardware,Issue,0 - Unclassified,2 - Medium
+2,TICKET-2,236,Human Resources,Closed,2019-01-24,229,Software,Issue,0 - Unclassified,1 - Low
+3,TICKET-3,187,Security,Closed,2019-10-19,175,Systems,Issue,2 - Normal,0 - Unassigned
+4,TICKET-4,211,Security,Assigned,2019-06-28,6,Hardware,Request,4 - Critical,1 - Low
+5,TICKET-5,242,BI,In Review,2019-07-16,155,Software,Request,4 - Critical,1 - Low
+6,TICKET-6,191,CRM,Assigned,2019-04-12,241,Systems,Issue,1 - Minor,1 - Low
+7,TICKET-7,220,Billing,Reassigned,2019-06-26,248,Systems,Issue,2 - Normal,2 - Medium
+8,TICKET-8,60,CS,Pending,2020-04-15,169,Access/Login,Issue,1 - Minor,0 - Unassigned
+9,TICKET-9,101,IT,In Progress,2018-12-08,211,Software,Request,1 - Minor,3 - High
+10,TICKET-10,210,BI,In Review,2019-04-22,161,Software,Request,2 - Normal,2 - Medium
+11,TICKET-11,126,CS,Closed,2019-10-16,227,Software,Issue,1 - Minor,0 - Unassigned
+12,TICKET-12,202,Retail,Assigned,2020-04-13,184,Hardware,Issue,2 - Normal,3 - High
+13,TICKET-13,246,BI,Pending,2019-08-29,162,Systems,Issue,2 - Normal,1 - Low
+14,TICKET-14,41,Retail,Reassigned,2020-03-04,244,Software,Issue,2 - Normal,1 - Low
+15,TICKET-15,27,Retail,Pending,2020-03-19,192,Access/Login,Request,0 - Unclassified,0 - Unassigned
+16,TICKET-16,175,Web,Closed,2019-01-24,174,Systems,Request,0 - Unclassified,2 - Medium
+17,TICKET-17,166,Payment,Closed,2019-12-21,139,Access/Login,Issue,0 - Unclassified,1 - Low
+18,TICKET-18,193,Finance,Closed,2019-04-12,116,Hardware,Request,0 - Unclassified,3 - High
+19,TICKET-19,89,CRM,Pending,2019-03-17,136,Access/Login,Issue,0 - Unclassified,3 - High
+20,TICKET-20,178,Training,Closed,2019-06-18,237,Software,Request,4 - Critical,0 - Unassigned
+21,TICKET-21,174,Security,Closed,2019-12-26,247,Software,Request,1 - Minor,2 - Medium
+22,TICKET-22,231,CS,Closed,2019-07-05,235,Software,Request,0 - Unclassified,1 - Low
+23,TICKET-23,124,Payment,Reassigned,2018-12-30,242,Systems,Request,1 - Minor,2 - Medium
+24,TICKET-24,191,Internal,Reassigned,2019-11-02,162,Systems,Request,2 - Normal,1 - Low
+25,TICKET-25,132,CS,In Review,2019-05-08,206,Access/Login,Issue,0 - Unclassified,3 - High
+26,TICKET-26,103,CRM,In Progress,2020-04-02,168,Systems,Issue,4 - Critical,3 - High
+27,TICKET-27,98,Internal,Assigned,2019-03-13,6,Software,Issue,2 - Normal,1 - Low
+28,TICKET-28,199,Finance,In Review,2019-03-19,91,Systems,Issue,0 - Unclassified,1 - Low
+29,TICKET-29,162,CRM,Reassigned,2019-02-09,227,Software,Issue,1 - Minor,0 - Unassigned
+30,TICKET-30,242,CTO,Closed,2020-01-02,228,Software,Issue,2 - Normal,2 - Medium
+31,TICKET-31,172,CS,In Progress,2019-12-07,196,Hardware,Issue,0 - Unclassified,3 - High
+32,TICKET-32,120,CTO,Reassigned,2020-02-06,218,Access/Login,Issue,3 - Major,2 - Medium
+33,TICKET-33,229,Billing,Pending,2020-01-09,176,Hardware,Request,4 - Critical,3 - High
+34,TICKET-34,54,CS,Assigned,2019-01-02,245,Hardware,Issue,3 - Major,1 - Low
+35,TICKET-35,136,Human Resources,Reassigned,2020-01-26,167,Software,Request,3 - Major,0 - Unassigned
+36,TICKET-36,184,Billing,In Review,2018-12-16,136,Hardware,Request,1 - Minor,0 - Unassigned
+37,TICKET-37,89,Payment,Reassigned,2019-11-12,168,Access/Login,Request,4 - Critical,1 - Low
+38,TICKET-38,232,Web,Closed,2019-09-13,248,Hardware,Issue,2 - Normal,0 - Unassigned
+39,TICKET-39,40,CS,In Progress,2019-06-08,228,Hardware,Issue,2 - Normal,1 - Low
+40,TICKET-40,199,Training,In Progress,2019-01-08,181,Software,Request,2 - Normal,3 - High
+41,TICKET-41,169,CRM,In Review,2018-12-16,47,Access/Login,Issue,1 - Minor,2 - Medium
+42,TICKET-42,197,Payment,Pending,2019-12-12,155,Hardware,Issue,1 - Minor,0 - Unassigned
+43,TICKET-43,242,Order,Closed,2019-11-10,194,Hardware,Issue,4 - Critical,1 - Low
+44,TICKET-44,235,Security,Closed,2020-03-18,239,Systems,Issue,1 - Minor,3 - High
+45,TICKET-45,176,IT,In Progress,2019-03-09,212,Systems,Issue,1 - Minor,2 - Medium
+46,TICKET-46,107,Order,In Review,2019-02-07,178,Software,Request,0 - Unclassified,0 - Unassigned
+47,TICKET-47,147,Web,In Progress,2020-01-13,203,Access/Login,Request,3 - Major,0 - Unassigned
+48,TICKET-48,143,Human Resources,Pending,2020-04-17,203,Systems,Request,4 - Critical,3 - High
+49,TICKET-49,40,CTO,Reassigned,2019-10-25,43,Software,Request,2 - Normal,1 - Low
+50,TICKET-50,211,IT,Closed,2019-04-07,126,Hardware,Request,4 - Critical,3 - High
+51,TICKET-51,248,CRM,Pending,2019-08-27,224,Software,Issue,1 - Minor,1 - Low
+52,TICKET-52,207,Billing,In Progress,2019-10-14,124,Systems,Issue,2 - Normal,1 - Low
+53,TICKET-53,103,Retail,In Review,2019-12-15,238,Hardware,Request,0 - Unclassified,2 - Medium
+54,TICKET-54,227,CRM,In Review,2019-07-15,181,Access/Login,Request,0 - Unclassified,0 - Unassigned
+55,TICKET-55,89,Web,Pending,2020-01-30,155,Access/Login,Issue,3 - Major,0 - Unassigned
+56,TICKET-56,217,CTO,Reassigned,2019-04-19,120,Systems,Issue,2 - Normal,1 - Low
+57,TICKET-57,144,CRM,Assigned,2019-01-18,136,Software,Request,0 - Unclassified,3 - High
+58,TICKET-58,143,IT,Closed,2019-06-16,110,Systems,Request,0 - Unclassified,2 - Medium
+59,TICKET-59,200,BI,In Review,2019-12-22,201,Software,Issue,1 - Minor,2 - Medium
+60,TICKET-60,226,Training,Closed,2019-07-12,236,Hardware,Issue,4 - Critical,0 - Unassigned
+61,TICKET-61,145,Payment,Pending,2019-08-16,66,Systems,Request,3 - Major,1 - Low
+62,TICKET-62,216,Human Resources,Closed,2019-12-06,187,Hardware,Issue,4 - Critical,2 - Medium
+63,TICKET-63,120,Finance,In Review,2019-12-25,232,Hardware,Request,0 - Unclassified,0 - Unassigned
+64,TICKET-64,145,Human Resources,Closed,2020-02-19,239,Software,Request,0 - Unclassified,1 - Low
+65,TICKET-65,162,Human Resources,Pending,2019-06-14,214,Access/Login,Issue,4 - Critical,0 - Unassigned
+66,TICKET-66,220,Web,Closed,2019-04-19,144,Hardware,Request,3 - Major,1 - Low
+67,TICKET-67,227,CTO,Assigned,2019-05-06,124,Hardware,Request,1 - Minor,0 - Unassigned
+68,TICKET-68,165,Order,Pending,2019-09-04,40,Hardware,Issue,4 - Critical,2 - Medium
+69,TICKET-69,211,Web,In Review,2019-02-26,134,Access/Login,Request,2 - Normal,0 - Unassigned
+70,TICKET-70,144,IT,In Review,2020-02-21,132,Access/Login,Request,2 - Normal,1 - Low
+71,TICKET-71,103,Training,Assigned,2019-11-01,221,Access/Login,Issue,4 - Critical,0 - Unassigned
+72,TICKET-72,144,Web,Reassigned,2019-05-28,200,Software,Issue,2 - Normal,3 - High
+73,TICKET-73,145,BI,Pending,2018-12-29,208,Hardware,Request,4 - Critical,3 - High
+74,TICKET-74,200,Finance,Assigned,2019-10-30,228,Hardware,Issue,1 - Minor,1 - Low
+75,TICKET-75,207,Payment,Closed,2019-01-31,43,Systems,Request,1 - Minor,3 - High
+76,TICKET-76,150,Security,Pending,2020-01-24,139,Access/Login,Issue,2 - Normal,3 - High
+77,TICKET-77,126,Finance,Assigned,2019-11-04,194,Software,Request,1 - Minor,1 - Low
+78,TICKET-78,195,CRM,In Review,2019-05-29,225,Software,Issue,2 - Normal,1 - Low
+79,TICKET-79,169,Finance,In Progress,2020-02-03,178,Software,Issue,0 - Unclassified,1 - Low
+80,TICKET-80,169,Training,In Review,2019-06-09,102,Hardware,Issue,0 - Unclassified,3 - High
+81,TICKET-81,138,BI,Assigned,2019-11-13,195,Hardware,Request,2 - Normal,3 - High
+82,TICKET-82,91,Security,Pending,2019-03-14,165,Software,Request,3 - Major,1 - Low
+83,TICKET-83,136,Payment,In Progress,2019-11-29,219,Systems,Issue,3 - Major,0 - Unassigned
+84,TICKET-84,237,Training,In Progress,2019-06-09,13,Access/Login,Issue,1 - Minor,1 - Low
+85,TICKET-85,55,IT,In Review,2019-12-16,27,Access/Login,Request,1 - Minor,2 - Medium
+86,TICKET-86,137,Web,Reassigned,2019-11-03,178,Access/Login,Issue,2 - Normal,3 - High
+87,TICKET-87,225,Retail,Closed,2019-10-12,217,Software,Issue,4 - Critical,3 - High
+88,TICKET-88,149,Billing,In Progress,2019-07-02,206,Hardware,Issue,4 - Critical,0 - Unassigned
+89,TICKET-89,54,Retail,Assigned,2019-05-30,110,Hardware,Issue,3 - Major,3 - High
+90,TICKET-90,227,Web,Pending,2019-10-09,42,Software,Issue,4 - Critical,1 - Low
+91,TICKET-91,196,Internal,Assigned,2019-12-06,242,Access/Login,Issue,2 - Normal,1 - Low
+92,TICKET-92,2,BI,Pending,2019-10-14,144,Systems,Request,4 - Critical,0 - Unassigned
+93,TICKET-93,235,CRM,Pending,2019-01-10,125,Hardware,Issue,2 - Normal,1 - Low
+94,TICKET-94,217,Internal,Closed,2019-12-31,207,Software,Request,2 - Normal,0 - Unassigned
+95,TICKET-95,186,BI,In Progress,2019-01-23,138,Software,Issue,1 - Minor,1 - Low
+96,TICKET-96,41,IT,Reassigned,2019-07-31,162,Systems,Issue,2 - Normal,3 - High
+97,TICKET-97,203,CS,Closed,2020-03-07,153,Hardware,Request,1 - Minor,3 - High
+98,TICKET-98,192,IT,Closed,2018-12-28,214,Hardware,Issue,2 - Normal,2 - Medium
+99,TICKET-99,40,Payment,Assigned,2019-10-24,2,Systems,Issue,1 - Minor,3 - High
+100,TICKET-100,241,CTO,Closed,2019-06-25,217,Access/Login,Request,4 - Critical,1 - Low
+101,TICKET-101,203,CTO,Reassigned,2020-04-12,119,Access/Login,Issue,1 - Minor,3 - High
+102,TICKET-102,153,CS,In Progress,2019-05-27,43,Access/Login,Issue,4 - Critical,1 - Low
+103,TICKET-103,91,Payment,In Progress,2019-01-26,139,Systems,Issue,1 - Minor,1 - Low
+104,TICKET-104,132,CRM,Closed,2020-01-25,145,Systems,Issue,3 - Major,1 - Low
+105,TICKET-105,47,CS,Assigned,2019-07-08,162,Hardware,Request,2 - Normal,3 - High
+106,TICKET-106,231,BI,Pending,2019-05-27,241,Access/Login,Issue,2 - Normal,0 - Unassigned
+107,TICKET-107,226,CRM,In Review,2019-06-21,70,Software,Request,1 - Minor,0 - Unassigned
+108,TICKET-108,90,CS,Closed,2019-05-06,212,Hardware,Request,3 - Major,1 - Low
+109,TICKET-109,232,Billing,Pending,2020-04-11,120,Software,Issue,0 - Unclassified,2 - Medium
+110,TICKET-110,147,Payment,Pending,2019-02-25,147,Access/Login,Issue,4 - Critical,1 - Low
+111,TICKET-111,89,CTO,In Review,2019-09-22,125,Systems,Request,1 - Minor,3 - High
+112,TICKET-112,228,Finance,In Progress,2019-02-28,174,Software,Issue,0 - Unclassified,2 - Medium
+113,TICKET-113,161,Retail,Closed,2019-07-15,103,Access/Login,Issue,0 - Unclassified,0 - Unassigned
+114,TICKET-114,66,Order,In Review,2019-04-19,192,Software,Request,1 - Minor,3 - High
+115,TICKET-115,163,Order,Reassigned,2019-09-16,212,Access/Login,Request,1 - Minor,1 - Low
+116,TICKET-116,225,CRM,Reassigned,2019-05-05,173,Access/Login,Request,0 - Unclassified,3 - High
+117,TICKET-117,145,Order,Closed,2020-04-07,123,Systems,Issue,4 - Critical,0 - Unassigned
+118,TICKET-118,181,Retail,In Review,2019-12-12,55,Systems,Issue,2 - Normal,0 - Unassigned
+119,TICKET-119,150,Human Resources,Assigned,2019-03-17,47,Hardware,Issue,0 - Unclassified,2 - Medium
+120,TICKET-120,228,Training,Closed,2020-03-21,102,Software,Issue,4 - Critical,0 - Unassigned
+121,TICKET-121,174,IT,Closed,2020-03-22,211,Software,Issue,2 - Normal,0 - Unassigned
+122,TICKET-122,229,Payment,Assigned,2019-03-29,193,Systems,Request,2 - Normal,3 - High
+123,TICKET-123,53,IT,Closed,2019-12-12,232,Systems,Request,0 - Unclassified,3 - High
+124,TICKET-124,136,Web,Assigned,2019-03-09,190,Access/Login,Request,1 - Minor,2 - Medium
+125,TICKET-125,123,CRM,Pending,2019-09-23,120,Software,Issue,4 - Critical,0 - Unassigned
+126,TICKET-126,43,Training,Assigned,2019-06-22,221,Software,Issue,3 - Major,2 - Medium
+127,TICKET-127,47,Finance,In Progress,2019-04-02,199,Hardware,Issue,3 - Major,3 - High
+128,TICKET-128,181,Internal,In Progress,2020-01-11,234,Hardware,Issue,0 - Unclassified,3 - High
+129,TICKET-129,110,Billing,In Progress,2019-09-11,54,Access/Login,Request,0 - Unclassified,0 - Unassigned
+130,TICKET-130,149,CRM,Pending,2020-04-03,13,Systems,Request,1 - Minor,0 - Unassigned
+131,TICKET-131,181,IT,In Progress,2019-10-25,173,Access/Login,Request,0 - Unclassified,2 - Medium
+132,TICKET-132,51,Training,Reassigned,2019-08-02,248,Hardware,Request,0 - Unclassified,3 - High
+133,TICKET-133,186,Training,In Progress,2019-11-29,176,Hardware,Issue,0 - Unclassified,2 - Medium
+134,TICKET-134,66,Security,In Progress,2020-03-26,200,Access/Login,Request,1 - Minor,3 - High
+135,TICKET-135,139,Order,Pending,2019-10-21,132,Access/Login,Issue,3 - Major,3 - High
+136,TICKET-136,205,Payment,Reassigned,2019-07-18,246,Software,Request,4 - Critical,0 - Unassigned
+137,TICKET-137,178,IT,Pending,2019-07-21,123,Software,Request,0 - Unclassified,2 - Medium
+138,TICKET-138,47,CTO,In Review,2019-09-19,119,Software,Issue,2 - Normal,2 - Medium
+139,TICKET-139,138,Payment,In Review,2020-04-01,228,Software,Request,0 - Unclassified,3 - High
+140,TICKET-140,51,Order,In Review,2019-03-15,53,Access/Login,Issue,3 - Major,2 - Medium
+141,TICKET-141,181,Web,Assigned,2019-09-07,169,Systems,Request,2 - Normal,1 - Low
+142,TICKET-142,60,CRM,Pending,2019-10-24,218,Hardware,Request,4 - Critical,0 - Unassigned
+143,TICKET-143,173,Payment,In Review,2019-08-21,227,Systems,Request,0 - Unclassified,3 - High
+144,TICKET-144,124,Internal,Closed,2019-07-02,220,Software,Request,3 - Major,3 - High
+145,TICKET-145,232,Human Resources,In Progress,2020-01-18,148,Hardware,Request,1 - Minor,1 - Low
+146,TICKET-146,231,Payment,Reassigned,2019-01-22,211,Hardware,Request,3 - Major,0 - Unassigned
+147,TICKET-147,186,Billing,Assigned,2019-05-20,186,Systems,Issue,4 - Critical,3 - High
+148,TICKET-148,248,Security,Closed,2019-10-02,103,Access/Login,Issue,0 - Unclassified,1 - Low
+149,TICKET-149,205,Training,In Review,2019-03-07,181,Access/Login,Request,2 - Normal,0 - Unassigned
+150,TICKET-150,125,Web,Reassigned,2019-04-01,27,Systems,Issue,4 - Critical,1 - Low
+151,TICKET-151,13,Payment,In Progress,2019-04-01,200,Systems,Request,3 - Major,3 - High
+152,TICKET-152,199,IT,Reassigned,2018-12-17,43,Access/Login,Issue,0 - Unclassified,1 - Low
+153,TICKET-153,212,CRM,In Review,2019-04-06,155,Access/Login,Issue,2 - Normal,1 - Low
+154,TICKET-154,216,CRM,Assigned,2019-03-04,188,Access/Login,Issue,1 - Minor,2 - Medium
+155,TICKET-155,119,Internal,Reassigned,2019-10-28,153,Software,Issue,4 - Critical,2 - Medium
+156,TICKET-156,102,Finance,Reassigned,2019-03-24,168,Access/Login,Issue,4 - Critical,0 - Unassigned
+157,TICKET-157,96,Billing,In Progress,2019-01-11,40,Access/Login,Request,1 - Minor,1 - Low
+158,TICKET-158,181,Training,In Progress,2019-07-08,174,Access/Login,Request,3 - Major,0 - Unassigned
+159,TICKET-159,163,IT,Closed,2019-04-26,184,Access/Login,Issue,1 - Minor,3 - High
+160,TICKET-160,221,Human Resources,In Progress,2020-02-06,205,Access/Login,Request,4 - Critical,1 - Low
+161,TICKET-161,191,Order,Pending,2019-10-04,172,Software,Issue,3 - Major,2 - Medium
+162,TICKET-162,213,Human Resources,Pending,2019-03-11,230,Hardware,Issue,3 - Major,1 - Low
+163,TICKET-163,242,Retail,Pending,2019-03-28,98,Access/Login,Issue,3 - Major,1 - Low
+164,TICKET-164,169,Web,Reassigned,2019-11-16,192,Systems,Request,1 - Minor,2 - Medium
+165,TICKET-165,205,Training,In Progress,2019-09-18,241,Software,Issue,4 - Critical,1 - Low
+166,TICKET-166,40,CRM,In Review,2019-01-16,136,Systems,Issue,4 - Critical,1 - Low
+167,TICKET-167,125,Training,In Progress,2019-07-29,175,Access/Login,Request,2 - Normal,2 - Medium
+168,TICKET-168,40,Web,Pending,2020-01-19,148,Software,Request,3 - Major,3 - High
+169,TICKET-169,53,IT,Closed,2019-11-26,55,Systems,Request,3 - Major,0 - Unassigned
+170,TICKET-170,239,Finance,In Progress,2019-11-02,193,Access/Login,Request,2 - Normal,0 - Unassigned
+171,TICKET-171,132,Order,Reassigned,2019-01-27,47,Systems,Request,0 - Unclassified,0 - Unassigned
+172,TICKET-172,120,IT,In Progress,2019-01-20,192,Access/Login,Issue,1 - Minor,2 - Medium
+173,TICKET-173,176,IT,Pending,2019-11-22,13,Access/Login,Issue,1 - Minor,3 - High
+174,TICKET-174,60,Finance,In Progress,2019-07-29,147,Software,Issue,4 - Critical,1 - Low
+175,TICKET-175,202,Retail,Closed,2020-02-20,242,Systems,Request,0 - Unclassified,1 - Low
+176,TICKET-176,167,Payment,Reassigned,2019-09-04,187,Software,Request,3 - Major,0 - Unassigned
+177,TICKET-177,139,Finance,Assigned,2019-02-07,136,Software,Issue,1 - Minor,0 - Unassigned
+178,TICKET-178,221,CTO,In Review,2019-10-23,2,Software,Request,2 - Normal,1 - Low
+179,TICKET-179,190,Retail,Assigned,2019-09-19,161,Software,Request,0 - Unclassified,3 - High
+180,TICKET-180,155,Internal,In Progress,2019-03-26,166,Systems,Issue,1 - Minor,0 - Unassigned
+181,TICKET-181,238,Payment,Assigned,2019-04-30,231,Software,Request,2 - Normal,3 - High
+182,TICKET-182,144,IT,In Progress,2019-12-21,107,Software,Issue,0 - Unclassified,1 - Low
+183,TICKET-183,40,CS,Closed,2019-08-22,2,Systems,Issue,4 - Critical,3 - High
+184,TICKET-184,90,BI,In Progress,2019-06-06,110,Systems,Request,2 - Normal,3 - High
+185,TICKET-185,90,Retail,In Review,2020-03-11,238,Hardware,Issue,1 - Minor,0 - Unassigned
+186,TICKET-186,101,Human Resources,In Progress,2019-05-17,229,Systems,Request,4 - Critical,1 - Low
+187,TICKET-187,207,BI,Reassigned,2019-02-19,238,Access/Login,Issue,1 - Minor,0 - Unassigned
+188,TICKET-188,163,Order,Assigned,2020-04-18,147,Access/Login,Request,4 - Critical,0 - Unassigned
+189,TICKET-189,237,Billing,Closed,2019-02-01,208,Access/Login,Issue,2 - Normal,3 - High
+190,TICKET-190,136,Training,Closed,2019-12-27,110,Systems,Issue,4 - Critical,0 - Unassigned
+191,TICKET-191,216,Security,Closed,2020-01-15,224,Systems,Request,1 - Minor,1 - Low
+192,TICKET-192,188,CS,In Progress,2019-01-31,153,Software,Issue,0 - Unclassified,3 - High
+193,TICKET-193,132,Order,Pending,2020-01-14,245,Software,Request,0 - Unclassified,2 - Medium
+194,TICKET-194,155,CS,In Progress,2019-01-05,243,Software,Issue,4 - Critical,2 - Medium
+195,TICKET-195,211,Security,In Progress,2019-12-03,199,Access/Login,Issue,0 - Unclassified,2 - Medium
+196,TICKET-196,162,Training,In Progress,2019-06-30,167,Hardware,Request,3 - Major,3 - High
+197,TICKET-197,208,Payment,Assigned,2020-03-03,243,Software,Request,0 - Unclassified,1 - Low
+198,TICKET-198,98,CTO,Closed,2019-06-04,209,Systems,Request,1 - Minor,0 - Unassigned
+199,TICKET-199,163,Billing,Assigned,2019-07-09,229,Access/Login,Issue,0 - Unclassified,1 - Low
+200,TICKET-200,233,CRM,Closed,2019-06-02,232,Access/Login,Request,0 - Unclassified,2 - Medium
+201,TICKET-201,214,Retail,Pending,2019-12-14,163,Access/Login,Issue,0 - Unclassified,1 - Low
+202,TICKET-202,161,Retail,Assigned,2019-07-29,200,Hardware,Request,3 - Major,0 - Unassigned
+203,TICKET-203,147,Human Resources,In Review,2020-02-03,147,Software,Request,1 - Minor,3 - High
+204,TICKET-204,184,Training,Assigned,2020-02-12,163,Access/Login,Request,1 - Minor,3 - High
+205,TICKET-205,107,Finance,Closed,2019-02-07,27,Access/Login,Request,0 - Unclassified,2 - Medium
+206,TICKET-206,145,Security,In Review,2019-04-14,168,Hardware,Issue,4 - Critical,2 - Medium
+207,TICKET-207,132,BI,Pending,2019-01-19,147,Hardware,Request,2 - Normal,1 - Low
+208,TICKET-208,175,CTO,Closed,2020-03-13,218,Software,Request,2 - Normal,2 - Medium
+209,TICKET-209,166,CS,Pending,2020-02-02,53,Hardware,Request,0 - Unclassified,3 - High
+210,TICKET-210,239,CTO,Reassigned,2020-01-02,103,Systems,Request,0 - Unclassified,0 - Unassigned
+211,TICKET-211,96,Finance,In Review,2018-12-20,119,Access/Login,Request,1 - Minor,3 - High
+212,TICKET-212,240,Order,In Review,2019-06-25,147,Hardware,Issue,4 - Critical,2 - Medium
+213,TICKET-213,119,Retail,Closed,2020-02-06,96,Access/Login,Issue,2 - Normal,2 - Medium
+214,TICKET-214,232,BI,Assigned,2020-03-19,231,Systems,Issue,0 - Unclassified,0 - Unassigned
+215,TICKET-215,202,Retail,Closed,2019-06-17,233,Software,Request,2 - Normal,2 - Medium
+216,TICKET-216,161,Order,Pending,2019-10-03,217,Software,Issue,0 - Unclassified,0 - Unassigned
+217,TICKET-217,202,IT,Closed,2019-03-13,91,Hardware,Request,3 - Major,1 - Low
+218,TICKET-218,224,Payment,Reassigned,2019-08-20,91,Systems,Issue,4 - Critical,2 - Medium
+219,TICKET-219,168,Training,In Progress,2019-08-22,2,Software,Request,1 - Minor,3 - High
+220,TICKET-220,200,Internal,Assigned,2019-12-29,96,Systems,Issue,4 - Critical,3 - High
+221,TICKET-221,195,Web,Pending,2019-05-06,210,Software,Issue,4 - Critical,3 - High
+222,TICKET-222,103,CRM,Closed,2020-02-19,242,Access/Login,Request,2 - Normal,0 - Unassigned
+223,TICKET-223,143,Billing,Closed,2018-12-22,209,Access/Login,Issue,0 - Unclassified,1 - Low
+224,TICKET-224,101,Web,Reassigned,2019-07-10,219,Software,Issue,3 - Major,0 - Unassigned
+225,TICKET-225,217,CS,In Progress,2019-01-10,13,Software,Request,1 - Minor,1 - Low
+226,TICKET-226,213,IT,In Progress,2020-01-15,197,Systems,Request,3 - Major,3 - High
+227,TICKET-227,119,Retail,Reassigned,2019-08-26,150,Software,Request,0 - Unclassified,1 - Low
+228,TICKET-228,236,Security,Closed,2019-03-19,47,Software,Issue,1 - Minor,0 - Unassigned
+229,TICKET-229,208,IT,Closed,2020-01-16,217,Software,Request,1 - Minor,0 - Unassigned
+230,TICKET-230,246,Internal,In Review,2019-05-04,126,Access/Login,Issue,4 - Critical,0 - Unassigned
+231,TICKET-231,195,CS,Pending,2019-01-26,196,Software,Request,1 - Minor,0 - Unassigned
+232,TICKET-232,199,BI,Pending,2020-03-08,169,Access/Login,Issue,2 - Normal,2 - Medium
+233,TICKET-233,101,Security,Closed,2020-03-06,195,Hardware,Request,3 - Major,0 - Unassigned
+234,TICKET-234,107,Finance,In Review,2020-02-27,211,Access/Login,Issue,0 - Unclassified,2 - Medium
+235,TICKET-235,186,BI,Pending,2019-02-01,201,Systems,Request,3 - Major,1 - Low
+236,TICKET-236,148,Training,Closed,2019-02-28,233,Software,Request,2 - Normal,1 - Low
+237,TICKET-237,175,Finance,In Review,2019-02-08,218,Access/Login,Request,0 - Unclassified,0 - Unassigned
+238,TICKET-238,42,Security,In Review,2020-01-29,178,Systems,Issue,4 - Critical,1 - Low
+239,TICKET-239,150,CRM,Assigned,2019-03-18,238,Hardware,Issue,2 - Normal,2 - Medium
+240,TICKET-240,139,BI,Closed,2019-03-17,234,Hardware,Request,4 - Critical,0 - Unassigned
+241,TICKET-241,200,CTO,Pending,2018-12-26,220,Software,Request,3 - Major,2 - Medium
+242,TICKET-242,125,Billing,Reassigned,2019-06-02,210,Software,Issue,1 - Minor,3 - High
+243,TICKET-243,144,Billing,In Progress,2019-03-21,148,Systems,Issue,2 - Normal,1 - Low
+244,TICKET-244,238,Internal,In Progress,2018-12-31,230,Access/Login,Issue,2 - Normal,1 - Low
+245,TICKET-245,110,Finance,Pending,2019-02-12,2,Systems,Request,2 - Normal,3 - High
+246,TICKET-246,161,Security,In Progress,2020-03-15,187,Hardware,Request,4 - Critical,0 - Unassigned
+247,TICKET-247,213,CS,In Review,2020-03-23,232,Systems,Request,2 - Normal,0 - Unassigned
+248,TICKET-248,199,Billing,Pending,2019-05-06,126,Access/Login,Issue,0 - Unclassified,3 - High
+249,TICKET-249,201,Retail,In Review,2019-03-23,2,Access/Login,Issue,2 - Normal,3 - High
