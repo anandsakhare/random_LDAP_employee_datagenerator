@@ -66,3 +66,8 @@ print(tree.show(line_type="ascii-em"))
 df.head(20)
 df.to_csv("sample_ldap_data.csv")
 tree.save2file('tree.txt')
+leaves=[]#leaves
+for i in tree.leaves():
+    leaves.append(i.tag)
+with open("leaves.txt", "w") as output:
+    output.write(str(leaves))
